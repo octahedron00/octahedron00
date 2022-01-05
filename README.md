@@ -4,6 +4,7 @@ Octo Moon, Korean, born in 2003, a junior creator(kind of)
 
 Interested in biotechnology, web app development, and neural network
 
+My Blog(in Korean Language) : octahedron00.tistory.com
 
 <!---
 octahedron00/octahedron00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
