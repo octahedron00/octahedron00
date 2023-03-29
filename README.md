@@ -1,4 +1,4 @@
-Octo Moon, Korean, born in 2003, a Creator(kind of)
+Octo Moon, Korean, Creator.
 
 - octahedron00@gmail.com
 
