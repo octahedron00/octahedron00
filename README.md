@@ -40,7 +40,7 @@ Major in **Biotech, CS & Commercial**
   
 * <img src="https://img.shields.io/badge/from-Korea-blue"> 2020 Korea Biology Olympiad (KBO) [**Grand Prize**](https://www.veritas-a.com/news/articleView.html?idxno=372725)
 
-* <img src="https://img.shields.io/badge/from-Korea-blue"> 2020 IUMS 미생물 창의연구 경진대회 [**최우수상(2등상)**](https://ksov.org/homepage/custom/conference3)
+* <img src="https://img.shields.io/badge/from-Korea-blue"> 2020 IUMS 미생물 창의연구 경진대회 [**최우수상(조직위원장상)**](https://ksov.org/homepage/custom/conference3)
 
 * <img src="https://img.shields.io/badge/from-Korea-blue"> 2020 제1회 고교학점제 UCC [**최우수상(교육부장관상)**](https://www.youtube.com/watch?v=qVlTJd8OKQ0)
 
