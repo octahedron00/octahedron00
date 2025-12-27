@@ -6,6 +6,11 @@ Undergraduate in Seoul Nat'l Univ
 
 Major in **Biotech, CS & Commercial**
 
+<div style="text-align: left;"> 
+  <a href=https://octahedron00.tistory.com> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://octahedron00.tistory.com"> </a> 
+  <a href=mailto:octahedron00@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:octahedron00@gmail.com"> </a>
+</div>
+
 ## 🛠️ Tech Stacks
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
@@ -21,13 +26,6 @@ Major in **Biotech, CS & Commercial**
   <img src="https://img.shields.io/badge/Korean-Native-blue"> 
   <img src="https://img.shields.io/badge/English-Toeic_940-red"> 
   <img src="https://img.shields.io/badge/Japanese-JLPT_N2-pink"> 
-</div>
-
-## 📧 Contact to:
-
-<div style="text-align: left;"> 
-  <a href=https://octahedron00.tistory.com> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://octahedron00.tistory.com"> </a> 
-  <a href=mailto:octahedron00@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:octahedron00@gmail.com"> </a>
 </div>
 
 ## 🏅 Stats
