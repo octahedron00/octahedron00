@@ -30,9 +30,9 @@ Major in **Biotech, CS & Commercial**
 
 ## 🏅 Stats
 
-* <img src="https://img.shields.io/badge/Book-written-green"> 2025: **19년 살아본 보고서: 영재고에서 찾은 서울대 너머** [보기](https://github.com/octahedron00/SRCISYOU)
+* <img src="https://img.shields.io/badge/Book-written-green"> 2025 **19년 살아본 보고서: 영재고에서 찾은 서울대 너머** [보기](https://github.com/octahedron00/SRCISYOU)
 
-* <img src="https://img.shields.io/badge/Book-written-green"> 2025: **19년 살아본 보고서: 타고난 것과 만들어진 것들** [보기](https://github.com/octahedron00/SRCISYOU)
+* <img src="https://img.shields.io/badge/Book-written-green"> 2025 **19년 살아본 보고서: 타고난 것과 만들어진 것들** [보기](https://github.com/octahedron00/SRCISYOU)
 
 * <img src="https://img.shields.io/badge/from-Korea-blue"> 2024 Military AI Contest (MAICON) [**Grand Prize (Prize from Minister of Defense)**](https://www.irobotnews.com/news/articleView.html?idxno=36853)
 
