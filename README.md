@@ -2,7 +2,7 @@
 
 Moon Hyunho, Korean Creator
 
-Undergraduate in Seoul Nat'l Univ
+**Undergraduate** in Seoul Nat'l Univ
 
 Major in **Biotech, CS & Commercial**
 
