@@ -34,7 +34,7 @@ Major in **Biotech, CS & Commercial**
 
 * <img src="https://img.shields.io/badge/from-Books-green"> 2025 **19년 살아본 보고서: 타고난 것과 만들어진 것들** [보기](https://github.com/octahedron00/SRCISYOU)
 
-* <img src="https://img.shields.io/badge/from-Korea-blue"> 2024 Military AI Contest (MAICON) [**Grand Prize (Prize from Minister of Defense)**](https://www.irobotnews.com/news/articleView.html?idxno=36853)
+* <img src="https://img.shields.io/badge/from-Korea-blue"> 2024 Military AI Contest (MAICON) [**Grand Prize(국방부장관상)**](https://www.irobotnews.com/news/articleView.html?idxno=36853)
 
 * <img src="https://img.shields.io/badge/from-Global-red"> 2021 **International Biology Olympiad (IBO)** [**Silver Medal**](https://www.ibo-info.org/en/contest/past-ibos.html)
   
@@ -44,4 +44,4 @@ Major in **Biotech, CS & Commercial**
 
 * <img src="https://img.shields.io/badge/from-Korea-blue"> 2020 제1회 고교학점제 UCC [**최우수상(교육부장관상)**](https://www.youtube.com/watch?v=qVlTJd8OKQ0)
 
-* <img src="https://img.shields.io/badge/from-Korea-blue"> 2020 제26회 삼성 휴먼테크논문대상 [**생물 부문 우수상**](https://humantech.samsung.com/saitext/intro.do)
+* <img src="https://img.shields.io/badge/from-Korea-blue"> 2020 제26회 삼성 휴먼테크논문대상 [**우수상(생물 부문)**](https://humantech.samsung.com/saitext/intro.do)
