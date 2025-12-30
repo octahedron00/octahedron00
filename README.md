@@ -36,8 +36,6 @@ Major in **Biotech, CS & Commercial**
 * 🥈 **2020 International Biology Olympiad (IBO) Silver Medal** - 국제생물올림피아드 [은상 수상](https://www.ibo-info.org/en/contest/past-ibos.html)
 * ✍️ 2025 **Writer of 19년 살아본 보고서 1, 2권** - [첫 작가 활동](https://github.com/octahedron00/SRCISYOU)
 
-* **Now:** Dev of Warehouse Management Web App 
-
 <details>
 <summary><b>⏳ All Timelines:</b></summary>
 
