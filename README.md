@@ -40,7 +40,7 @@ Major in **Biotech, CS & Commercial**
 <details>
 <summary><b>⏳ All Timelines:</b></summary>
 
-* <img src="https://img.shields.io/badge/from-Codes-yellow"> 2026 [**Grida**](https://getgrida.com): Warehouse Management Web App <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"> 
+* <img src="https://img.shields.io/badge/from-Codes-yellow"> 2026 [**Grida**](https://getgrida.com): Warehouse Management Web App <img src="https://img.shields.io/badge/Alive-red"> <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"> 
 
 * <img src="https://img.shields.io/badge/from-Books-green"> 2025 **19년 살아본 보고서: 영재고에서 찾은 서울대 너머** [보기](https://github.com/octahedron00/SRCISYOU)
 
