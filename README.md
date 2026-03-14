@@ -2,7 +2,7 @@
 
 Moon Hyunho, Korean Creator
 
-**Undergraduate** in [**Seoul Nat'l Univ**](https://snu.ac.kr) | [GSHS](https://gs-h.goesw.kr) 37th
+**Undergraduate** in [**Seoul Nat'l Univ**](https://en.snu.ac.kr) | [GSHS](https://gs-h.goesw.kr) 37th
 
 Major in **Biotech, CS & Commercial**
 
