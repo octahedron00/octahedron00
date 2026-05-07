@@ -25,7 +25,7 @@ Major in **Biotech, CS & Commercial**
 </div>
 <div>
   <img src="https://img.shields.io/badge/Korean-Native-blue"> 
-  <img src="https://img.shields.io/badge/English-Toeic_940-red"> 
+  <img src="https://img.shields.io/badge/English-Toeic_940_|_TEPS_398-red"> 
   <img src="https://img.shields.io/badge/Japanese-JLPT_N1-pink"> 
   <img src="https://img.shields.io/badge/Weeb-uwu-violet"> 
 </div>
