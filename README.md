@@ -32,14 +32,17 @@ Major in **Biotech, CS & Commercial**
 
 ## 🏅 Stats
 
-* 🖥️ **2026 Dev of [Grida](https://getgrida.com)** - 직관적인 창고 관리 [웹 앱 개발](https://getgrida.com)
+* 🏅 **2026 Granted Presidential Science Scholarship** - 대통령과학장학금 장학생 선발
 * 🥇 **2024 Military AI Contest (MAICON) Team Grand Prize** - 국방 AI 경진대회 [팀 우승](https://www.irobotnews.com/news/articleView.html?idxno=36853)
 * 🥈 **2020 International Biology Olympiad (IBO) Silver Medal** - 국제생물올림피아드 [은상 수상](https://www.ibo-info.org/en/contest/past-ibos.html)
-* ✍️ **2025 Writer of 19년 살아본 보고서 1, 2권** - 첫 작가 활동, [첫 자서전](https://github.com/octahedron00/SRCISYOU)
+
+...and more!
 
 <details>
 <summary><b>⏳ All Timelines:</b></summary>
 
+* <img src="https://img.shields.io/badge/from-Korea-blue"> 2026 Granted the **Presidential Science Scholarship** (대통령과학장학금) <img src="https://img.shields.io/badge/Bio-199900?logo=leaflet&logoColor=white">
+  
 * <img src="https://img.shields.io/badge/from-Codes-yellow"> 2026 [**Grida**](https://getgrida.com): Warehouse Management Web App <img src="https://img.shields.io/badge/Alive-red"> <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"> 
 
 * <img src="https://img.shields.io/badge/from-Books-green"> 2025 **19년 살아본 보고서: 영재고에서 찾은 서울대 너머** [보기](https://github.com/octahedron00/SRCISYOU)
@@ -48,8 +51,8 @@ Major in **Biotech, CS & Commercial**
 
 * <img src="https://img.shields.io/badge/from-Korea-blue"> 2024 Military AI Contest (MAICON) [**Team Grand Prize(국방부장관상)**](https://www.irobotnews.com/news/articleView.html?idxno=36853) <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white">
 
-* <img src="https://img.shields.io/badge/from-Codes-yellow"> 2024 [**CNS-Genotyper**](https://github.com/octahedron00/CNS-Genotyper): Varient Mutant Genotyping w/ NGS data <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Bio-199900?logo=leaflet&logoColor=white">
+* <img src="https://img.shields.io/badge/from-Codes-yellow"> 2024 [**CNS-Genotyper**](https://github.com/octahedron00/CNS-Genotyper): Varient Mutant Genotyping w/ NGS data <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Bio-199900?logo=leaflet&logoColor=white">
+  
 
 * <img src="https://img.shields.io/badge/from-Codes-yellow"> 2021 [**MNIST by C**](https://github.com/octahedron00/MNIST_by_c): MNIST 99% Neural Net build on plain C <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white">
 
