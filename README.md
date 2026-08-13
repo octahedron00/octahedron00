@@ -14,9 +14,10 @@ Major in **Biotech, CS & Commercial**
 ## 🛠️ Tech Stacks
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=Javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/Next-000000?logo=Next.js&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white">
@@ -40,6 +41,9 @@ Major in **Biotech, CS & Commercial**
 
 <details>
 <summary><b>⏳ All Timelines:</b></summary>
+
+* <img src="https://img.shields.io/badge/from-Codes-yellow"> 2026 [**GLEAP Home**](https://gleap-website.vercel.app): Homepage for SNU CNS GLEAP <img src="https://img.shields.io/badge/dev-grey"> 
+  <img src="https://img.shields.io/badge/Next-000000?logo=Next.js&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white"> 
 
 * <img src="https://img.shields.io/badge/from-Korea-blue"> 2026 Granted the **Presidential Science Scholarship** (대통령과학장학금) <img src="https://img.shields.io/badge/Bio-199900?logo=leaflet&logoColor=white">
   
